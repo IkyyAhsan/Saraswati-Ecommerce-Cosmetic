@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "929239288066",
+    "project_id": "saraswaticosmeticapp",
+    "storage_bucket": "saraswaticosmeticapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929239288066:android:2327748ce09d3f69e15a1b",
+        "android_client_info": {
+          "package_name": "com.example.saraswati_application_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929239288066-8tmf122v4jlf2h55b1lb3cpqlgmgjd4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saraswati_application_project",
+            "certificate_hash": "12f9f0b450cbfa26060d3bf9b84902482cc421ce"
+          }
+        },
+        {
+          "client_id": "929239288066-acoksrlains99mlec9lfoj4cedlvbjeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Tg8wbPEWDfZO0D9EK8PnE9qaQPKUTMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929239288066-acoksrlains99mlec9lfoj4cedlvbjeq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929239288066-1ho16ibu20lqdmqk156soql3q0tut6ve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saraswatiApplicationProject.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
